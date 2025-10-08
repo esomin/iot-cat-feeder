@@ -42,5 +42,11 @@ app-example
 /ios
 /android
 
-# Arduino secrets
+# Arduino IDE & Development
 arduino/**/secrets.h
+arduino/**/*.hex
+arduino/**/*.bin
+arduino/**/*.elf
+arduino/**/*.map
+arduino/**/build/
+arduino/**/libraries/
